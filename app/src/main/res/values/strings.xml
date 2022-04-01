@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">ProjectNoted</string>
+    <string name="project_noted">Project Noted</string>
+    <string name="Lets_get_started">Let\'s Get Started</string>
+    <string name="signin">SIGN IN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="signup_description">Enter Your Name, Email, and Password to Register with us</string>
+    <string name="Name">Name</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+
+    <string name="please_click_back_again_to_exit">Please Click Back Again to Exit</string>
+    <string name="please_wait">Please Wait &#8230;</string>
+
+    <string name="nav_my_profile">My Profile</string>
+    <string name="nav_sign_out">Sign Out</string>
+    <string name="image_ContentDescription">Profile Picture</string>
+
+    <string name="mobile">Mobile</string>
+    <string name="update">UPDATE</string>
+    <string name="my_profile">My Profile</string>
+
+    <string name="create_board_title">Create Board</string>
+    <string name="create">CREATE</string>
+    <string name="board_name">Board Name</string>
+    <string name="no_boards_available">No Boards Available ...</string>
+    <string name="action_add_list">Add Task List</string>
+    <string name="list_name">List Name</string>
+    <string name="card_name">Card Name</string>
+    <string name="add_card">Add Card</string>
+    <string name="hint_card_name">Card Name</string>
+    <string name="label_color">Color</string>
+    <string name="select_color">Choose Color</string>
+    <string name="due_date">Due Date</string>
+    <string name="select_due_date">Select Due Date</string>
+    <string name="members">Members</string>
+    <string name="add_member">Add Member</string>
+    <string name="search_member">Search Member</string>
+    <string name="email">Email</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_members">Select Members</string>
+    <string name="alert">Alert</string>
+    <string name="yes">Yes</string>
+    <string name="confirmation_message_to_delete_card">Are you sure to delete card \'%1$s\'?</string>
+    <string name="delete_card">Delete Card</string>
+
+    <string name="str_Select_label_color">Select Label Color</string>
+    <string name="str_select_member">Select Member</string>
+    <string name="add_list">Add List</string>
+    <string name="delete_board">Delete Board</string>
+
+
+</resources>
